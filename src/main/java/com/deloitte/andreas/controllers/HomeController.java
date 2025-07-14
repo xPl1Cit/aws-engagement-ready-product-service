@@ -1,9 +1,5 @@
 package com.deloitte.andreas.controllers;
 
-<<<<<<< HEAD
-import org.springframework.beans.factory.annotation.Autowired;
-=======
->>>>>>> a63111ea7b49ff05f2671cdbf526ffd510628c15
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

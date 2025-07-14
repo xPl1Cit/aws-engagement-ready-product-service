@@ -8,13 +8,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-<<<<<<< HEAD
-    <name>Product Service</name>
-    <description>SpringBoot Product Service</description>
-=======
     <name>Cart Service</name>
     <description>Spring Boot Cart Backend</description>
->>>>>>> a63111ea7b49ff05f2671cdbf526ffd510628c15
 
     <parent>
         <groupId>org.springframework.boot</groupId>

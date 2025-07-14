@@ -10,11 +10,7 @@ REGION=${1:-us-east-1}  # Default to us-east-1 if no region is provided
 ENVIRONMENT=${3:-test}
 
 # Set the repository name
-<<<<<<< HEAD
 REPOSITORY_NAME="final-al-product-service-${ENVIRONMENT}"
-=======
-REPOSITORY_NAME="final-al-cart-service-${ENVIRONMENT}"
->>>>>>> a63111ea7b49ff05f2671cdbf526ffd510628c15
 
 echo "📦 Targeting repository: $REPOSITORY_NAME in $REGION (env: $ENVIRONMENT)"
 
