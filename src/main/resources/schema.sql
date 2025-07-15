@@ -4,7 +4,7 @@ CREATE TABLE t_products (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     description TEXT,
-    price DOUBLE NOT NULL
+    price NUMERIC(10,2) NOT NULL
 );
 
 INSERT INTO t_products (name, description, price) VALUES 
